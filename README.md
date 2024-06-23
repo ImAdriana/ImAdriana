@@ -8,13 +8,14 @@
 <!-- Intro -->
 
 <h3 align="center">About Me :</h3>  
- <p>
- 👩‍🎓  .
-<br>🐱 I'm 22.
-<br>💫 I’m a junior developer.
-<br>👩‍💻 Constantly learning
-<br> - :computer: You can find my professional profile on [LinkedIn](www.linkedin.com/in/its-adriana-clemente/)
- </p>
+<p>
+👩‍🎓 I am currently a student pursuing a Bachelor's degree in Computer Science..  
+<br>🐱 I'm 22 years old and passionate about technology and coding.  
+<br>💫 I’m a junior developer with a keen interest in web development. I'm particularly interested in back-end development.  
+<br>👩‍💻 Constantly learning and expanding my skill set. I love tackling new challenges and collaborating on exciting projects.  
+<br>🌟 In my free time, I enjoy reading a wide variety of books, watching movies, and spending quality time with my family. I love swimming at the beach and taking walks with my dog. These activities help me relax and recharge, bringing balance to my life. 
+<br>📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/its-adriana-clemente/).  
+</p>
 
 </div>
 
