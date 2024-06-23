@@ -13,21 +13,8 @@
 <br>🐱 I'm 22.
 <br>💫 I’m a junior developer.
 <br>👩‍💻 Constantly learning
+<br> - :computer: You can find my professional profile on [LinkedIn](www.linkedin.com/in/its-adriana-clemente/)
  </p>
-
-<!-- Socials --> 
-
-<h3 align="center">Let's Connect! :</h3>  
-<div align="center">
-<a href="www.linkedin.com/in/adriana-clemente-b07bbb306" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-
-<a href="https://codepen.io/mahiiverse" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
-</a>
-
-<a href="adriana.clemente.h@gmail.com" target="blank">
-<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
-</a>
 
 </div>
 
@@ -44,7 +31,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
 </p>
 
 
