@@ -62,13 +62,13 @@
 ### 👉 Databases & Cloud Hosting
 <p align="center">
   &emsp;
-    <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="height: 4rem"/>
   &emsp;
-    <img alt="SQLite" src ="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
+    <img alt="SQLite" src ="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="height: 4rem"/>
   &emsp;
-    <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height: 4rem"/>
   &emsp;
-    <img alt="Firebase" src ="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+    <img alt="Firebase" src ="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" style="height: 4rem"/>
  </p>
   
 
@@ -76,11 +76,10 @@
  
 <p align="center">
   &emsp;
-<img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height: 4rem"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height: 4rem"/>
   &emsp;
-    <img alt="Eclipse" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
-
-
+    <img alt="Eclipse" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" style="height: 4rem"/>
+  &emsp;
+    <img alt="Postman" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" style="height: 4rem"/>
 </p>
-
 <br/>
