@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 <h1 align="center">Hi 👋, I'm Adriana</h1>
 <h3 align="center">I am passionate about learning and putting into practice what I know</h3>
 
@@ -9,7 +12,7 @@
 
 <h3 align="center">About Me :</h3>  
 <p>
-👩‍🎓 I am currently a student pursuing a Bachelor's degree in Computer Science..  
+👩‍🎓 I am a graduate with a degree in Computer Science.  
 <br>🐱 I'm 22 years old and passionate about technology and coding.  
 <br>💫 I’m a junior developer with a keen interest in web development. I'm particularly interested in back-end development.  
 <br>👩‍💻 Constantly learning and expanding my skill set. I love tackling new challenges and collaborating on exciting projects.  
@@ -20,23 +23,64 @@
 </div>
 
 <!-- Tech Stack --> 
-
-<h3 align="Center">Languages and Tools:</h3>  
+## 🛠️ My Skills
+### 👉 Programming languages
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+&emsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"  style="height: 4rem"/>
+&emsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
+&emsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+&emsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 4rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" style="height: 4rem; background-color:white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
-  
 </p>
 
 
+### 👉 Frontend Development
+<p align="center"> 
+&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+&emsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+  &emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  style="height: 4rem"/>
+  &emsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
+</p>
+
+### 👉 Backend Development
+<p align="center"> 
+&emsp;
+<img alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="height: 4rem"/>
+&emsp;
+<img alt="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="height: 4rem"/>
+  &emsp;
+<img alt="Express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="height: 4rem"/>
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="center">
+  &emsp;
+    <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  &emsp;
+    <img alt="SQLite" src ="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
+  &emsp;
+    <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  &emsp;
+    <img alt="Firebase" src ="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+ </p>
+  
+
+ ### 👉 Software & Tools
+ 
+<p align="center">
+  &emsp;
+<img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="height: 4rem"/>
+  &emsp;
+    <img alt="Eclipse" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
+
+
+</p>
+
+<br/>
