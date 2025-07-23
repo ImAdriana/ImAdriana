@@ -53,8 +53,10 @@
 ### 👉 Backend Development
 <p align="center"> 
 &emsp;
+<img alt="DotNet" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" style="height: 4rem"/>
+&emsp;
 <img alt="Node.js" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="height: 4rem"/>
-  &emsp;
+&emsp;
 <img alt="Express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="height: 4rem"/>
 </p>
 
@@ -68,6 +70,8 @@
     <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="height: 4rem"/>
   &emsp;
     <img alt="Firebase" src ="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" style="height: 4rem"/>
+&emsp;
+    <img alt="Azure" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" style="height: 4rem"/>
  </p>
   
 
